@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashforreal
-- 👀 I’m interested in Data Science & ML in general
+- 👀 I’m interested in Data Science & ML
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java or Python based projects for the time being
 - 📫 You can connect with me via twitter: @yashforeverr or instagram: @yashforreal
