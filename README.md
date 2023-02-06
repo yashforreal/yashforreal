@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashforreal
-- 👀 I’m interested in Data Science & ML
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java or Python based projects for the time being
+- 👀 I’m interested in web development, data science and ML
+- 🌱 I’ve worked with technologies like .NET Core and ReactJS
+<!-- - 💞️ I’m looking to collaborate on Java or Python based projects for the time being -->
 - 📫 You can connect with me via twitter: @yashforeverr or instagram: @yashforreal
 
 <!---
