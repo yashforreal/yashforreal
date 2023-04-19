@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashforreal
 - 👀 I’m interested in web development, data science and ML
 - 🌱 I’ve worked with technologies like .NET Core and ReactJS
-- 📫 You can connect with me via twitter: @yashforeverr or instagram: @yashforreal
+- 📫 You can connect with me via twitter: @yashforeverr or instagram: @yashforreal or email: yka.yash@gmail.com
 <!-- - 💞️ I’m looking to collaborate on Java or Python based projects for the time being -->
 <!---
 yashforreal/yashforreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
