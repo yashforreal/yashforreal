@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashforreal
+- 👋 Hi, I’m [Yash Aswani][Twitter]
 - 👀 I’m interested in web development, data science and ML
 - 🌱 I’ve worked with technologies like .NET Core and ReactJS
 - 📫 You can connect with me via twitter: @yashforeverr or instagram: @yashforreal or email: yka.yash@gmail.com
